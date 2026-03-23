@@ -1,87 +1,117 @@
-<!-- HERO SECTION -->
-<h1 align="center">Hi 👋, I'm Pramod Poshettiwar</h1>
-<h3 align="center">AWS DevOps Engineer | Building Scalable Cloud Systems</h3>
-
+<!-- HERO -->
+<h1 align="center">Pramod</h1>
 <p align="center">
-I design, automate, and scale production-grade infrastructure on AWS.
+  AWS DevOps Engineer • Infrastructure Automation • Kubernetes
 </p>
 
 <p align="center">
-⚡ 93% Faster Deployments &nbsp; | &nbsp; 📈 99.5% Uptime &nbsp; | &nbsp; 🚀 10+ Deployments/Day
+  I build systems that deploy faster, scale under load, and recover automatically.
 </p>
 
----
-
-<!-- VALUE PROPOSITION -->
-## 🚀 What I Actually Do
-- Build **scalable AWS infrastructure** (VPC, Auto Scaling, ALB)
-- Design **CI/CD pipelines** that reduce release time from hours → minutes
-- Manage **containerized workloads** using Docker & Kubernetes
-- Automate everything using **Terraform + Bash**
-- Implement **real-time monitoring & alerting systems**
-
----
-
-<!-- TECH STACK (CLEAN + LIMITED) -->
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,github" />
+  <b>99.5% uptime</b> • <b>93% faster releases</b> • <b>15+ environments automated</b>
 </p>
 
 ---
 
-<!-- PROJECTS (THIS IS YOUR REAL WEAPON) -->
-## 🏗️ Featured Work
+## ⚡ What I Actually Own
 
-### 🔹 Scalable AWS Auto Scaling System
-Designed a fault-tolerant architecture using EC2 + ALB + Auto Scaling  
-→ Achieved high availability with zero downtime deployments  
-
----
-
-### 🔹 Hybrid Cloud (Site-to-Site VPN)
-Connected on-premise infrastructure with AWS securely  
-→ Enabled enterprise-grade hybrid architecture  
+- End-to-end **cloud infrastructure lifecycle** (design → deploy → scale → monitor)
+- CI/CD systems that move code from commit → production in minutes
+- Kubernetes workloads running with **zero-downtime deployments**
+- Infrastructure as Code using **modular, reusable Terraform**
 
 ---
 
-### 🔹 End-to-End DevOps Pipeline
-Java App → Docker → Kubernetes → Jenkins CI/CD  
-→ Reduced deployment effort by ~80%  
-→ Enabled continuous delivery pipeline  
+## 🧠 Systems I've Built
+
+### 1. Scalable Web Infrastructure (AWS)
+**Stack:** EC2 • ALB • Auto Scaling • Terraform  
+
+- Designed horizontally scalable architecture handling dynamic traffic
+- Eliminated single points of failure using load balancing
+- Enabled automatic scaling based on real-time demand
+
+👉 Result: Stable system with high availability and zero manual intervention  
 
 ---
 
-<!-- EXPERIENCE -->
+### 2. Hybrid Cloud Network (Site-to-Site VPN)
+**Stack:** VPC • VPN Gateway • Routing  
+
+- Connected on-prem infrastructure with AWS securely
+- Designed subnet-level routing for controlled traffic flow
+- Enabled enterprise-style hybrid deployment model  
+
+👉 Result: Secure, low-latency communication between environments  
+
+---
+
+### 3. Production DevOps Pipeline
+**Stack:** Jenkins • Docker • Kubernetes • GitHub  
+
+- Built CI/CD pipeline from scratch (build → test → deploy)
+- Containerized Java application and deployed to Kubernetes
+- Implemented rolling updates with zero downtime  
+
+👉 Result: Deployment time reduced from hours → minutes  
+
+---
+
+## 🛠️ Tech I Use (Only What I Can Defend)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,linux,bash,github" />
+</p>
+
+---
+
+## 📊 Execution Metrics (Real Signals)
+
+- 15+ environments managed using Terraform  
+- 10+ deployments per day enabled  
+- 100+ Kubernetes pods orchestrated  
+- MTTR improved by 20% using monitoring systems  
+
+---
+
 ## 💼 Experience
 
-**DevOps Engineer Intern — SevenMentor Pvt Ltd**
+**DevOps Engineer Intern**  
+SevenMentor Pvt Ltd  
 
-- Managed **15+ environments using Terraform**
-- Enabled **10+ deployments/day via CI/CD**
-- Deployed **100+ Kubernetes pods**
-- Improved MTTR by **20% using monitoring systems**
+Worked on real-world infrastructure and automation systems:
+
+- Built reusable Terraform modules → reduced provisioning time by 85%
+- Designed CI/CD pipelines → reduced release cycle by 93%
+- Managed Kubernetes workloads across multiple namespaces
+- Implemented monitoring using Prometheus & Grafana
 
 ---
 
-<!-- CERTIFICATIONS -->
 ## 📜 Certifications
-AWS • DevOps • RHCSA • CCNA  
+AWS • RHCSA • CCNA • DevOps  
 
 ---
 
-<!-- CTA -->
-## 🌐 Connect With Me
+## 🎯 Current Focus
+
+- Production-grade Kubernetes (security, scaling, networking)
+- Cost optimization in AWS environments
+- High availability & disaster recovery architectures
+
+---
+
+## 🔗 Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/pramodposhettiwar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pramod-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/pramodposhettiwar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-<!-- FOOTER -->
-<p align="center">
-  ⚡ "Automate everything. Scale what works."
-</p>
+## ⚠️ Important
+
+This profile reflects systems I’ve built and operated — not just tools I’ve learned.
