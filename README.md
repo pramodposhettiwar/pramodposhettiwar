@@ -186,7 +186,7 @@ https://github.com/pramodposhettiwar/auto-scaling-architecture
 
 - GitHub: https://github.com/pramodposhettiwar  
 - LinkedIn: https://www.linkedin.com/in/pramodposhettiwar  
-- Email: your-email@example.com  
+- Email: pramodposhettiwar@gmail.com  
 
 ---
 
